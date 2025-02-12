@@ -50,7 +50,7 @@ We’re also looking for passionate developers and dedicated debuggers to join o
 
 ## Sponsorship
 
-To help support VRCi’s development, we welcome sponsorships. If you’d like to sponsor the project or collaborate with us, please contact us at [0x00002c000@tutanota.com](mailto:0x00002c000@tutanota.com).
+To help support VRCi’s development, we welcome sponsorships. If you’d like to sponsor the project or collaborate with us, please contact us at [here](mailto:mk0-w5i9sw4a@proton.me).
 
 ---
 
