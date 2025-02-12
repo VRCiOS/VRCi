@@ -24,17 +24,30 @@
 
 Here are some screenshots showcasing VRCi’s key screens:
 
-- **Main Screen**  
-  ![Main Screen](./img/main.jpg)
 
-- **Menu**  
-  ![Menu Screen](./img/sidemenu.jpg)
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Main Screen</strong><br>
+      <img src="./img/main.jpg" alt="Main Screen" width="300" />
+    </td>
+    <td align="center">
+      <strong>Menu Screen</strong><br>
+      <img src="./img/sidemenu.jpg" alt="Menu Screen" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Search Screen</strong><br>
+      <img src="./img/search.jpg" alt="Search Screen" width="300" />
+    </td>
+    <td align="center">
+      <strong>Friends Screen</strong><br>
+      <img src="./img/friendprofile.jpg" alt="Friends Screen" width="300" />
+    </td>
+  </tr>
+</table>
 
-- **Search Screen**  
-  ![Search Screen](./img/search.jpg)
-
-- **Friends Screen**  
-  ![Friends Screen](./img/friendprofile.jpg)
 
 ## Current Development Status
 
