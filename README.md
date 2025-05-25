@@ -22,7 +22,6 @@
 - **Real-Time Friend Status Updates**: Stay up-to-date with your friends' online statuses through live WebSocket updates
 - **Comprehensive User Search**: Find any VRChat user with powerful search and filtering capabilities
 - **Favorites & Group Management**: Easily mark your favorite friends, worlds, and avatars and organize them into customizable groups
-- **Smart Notification System**: Never miss important updates with intelligent push notifications
 
 ### 🌍 **World & Content Discovery**
 - **Advanced World Search**: Discover new worlds with detailed filtering, sorting, and recommendation features
