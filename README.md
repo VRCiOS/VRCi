@@ -125,6 +125,8 @@ VRCi aims to enhance the VRChat experience by:
 
 **Beta testing will begin in early June 2025** via Apple's TestFlight platform. We're excited to share VRCi with the VRChat community and gather valuable feedback!
 
+📝 **Beta Signup Coming Soon!** We'll be opening beta applications through a Google Form shortly. Stay tuned for the announcement!
+
 **What to expect in the beta:**
 - ✅ Full feature access
 - ✅ Real-time friend tracking
