@@ -1,5 +1,9 @@
 <div align="center">
 
+**Languages:** [🇺🇸 English](README.md) • [🇯🇵 日本語](README_ja.md) • [🇪🇸 Español](README_es.md) • [🇨🇳 中文](README_cn.md) • [🇰🇷 한국어](README_kr.md)
+
+---
+
 # VRCi <img src="./icon/icon.png" width="64" height="64"> </img> 
 
 **VRCi** is a next-generation friend and community management tool, inspired by [**VRCX**](https://github.com/vrcx-team/VRCX) for VRChat on iOS—built with SwiftUI. This **unofficial third-party application** enhances your VRChat experience while respecting VRChat's ecosystem.
@@ -17,6 +21,7 @@
 - **Real-Time Friend Status Updates**: Stay up-to-date with your friends' online statuses through live WebSocket updates
 - **Comprehensive User Search**: Find any VRChat user with powerful search and filtering capabilities
 - **Favorites & Group Management**: Easily mark your favorite friends, worlds, and avatars and organize them into customizable groups
+- **Smart Notification System**: Never miss important updates with intelligent push notifications
 
 ### 🌍 **World & Content Discovery**
 - **Advanced World Search**: Discover new worlds with detailed filtering, sorting, and recommendation features
@@ -92,11 +97,11 @@ Explore VRCi's comprehensive feature set:
 
 VRCi is an **unofficial third-party application** developed independently and is not affiliated with or endorsed by VRChat Inc.
 
-- ✅ **Complies with VRChat's Terms of Service**
-- ✅ **Respects VRChat's Community Guidelines**  
-- ✅ **Uses only public API endpoints**
-- ✅ **Protects user privacy and data security**
-- ✅ **Follows Apple's App Store Guidelines**
+- **Complies with VRChat's Terms of Service**
+- **Respects VRChat's Community Guidelines**  
+- **Uses only public API endpoints**
+- **Protects user privacy and data security**
+- **Follows Apple's App Store Guidelines**
 
 ### Legal Documentation
 
@@ -111,46 +116,46 @@ Detailed information about data collection, use, and protection
 ## Community Impact
 
 VRCi aims to enhance the VRChat experience by:
-- 🤝 **Improving friend and community management**
-- ♿ **Providing better accessibility features**
-- 🌱 **Supporting the VRChat ecosystem growth**
-- ✨ **Fostering positive community interactions**
-- 🔒 **Prioritizing user privacy and security**
+- **Improving friend and community management**
+- **Providing better accessibility features**
+- **Supporting the VRChat ecosystem growth**
+- **Fostering positive community interactions**
+- **Prioritizing user privacy and security**
 
 ## Current Development Status
 
-🎉 **Development Phase Completed!** VRCi's core features are ready and optimized for release.
+**Development Phase Completed!** VRCi's core features are ready and optimized for release.
 
-### 🚀 TestFlight Beta Launch - Early June 2025
+### TestFlight Beta Launch - Early June 2025
 
 **Beta testing will begin in early June 2025** via Apple's TestFlight platform. We're excited to share VRCi with the VRChat community and gather valuable feedback!
 
 📝 **Beta Signup Coming Soon!** We'll be opening beta applications through a Google Form shortly. Stay tuned for the announcement!
 
 **What to expect in the beta:**
-- ✅ Full feature access
-- ✅ Real-time friend tracking
-- ✅ QR code sharing and scanning
-- ✅ Multi-account support
-- ✅ Advanced search capabilities
-- ✅ And much more!
+- Full feature access
+- Real-time friend tracking
+- QR code sharing and scanning
+- Multi-account support
+- Advanced search capabilities
+- And much more!
 
-### 💡 Feature Ideas Always Welcome
+### Feature Ideas Always Welcome
 
 We're constantly looking for ways to improve VRCi! If you have ideas for new features or improvements, we'd love to hear from you:
-- 🌟 **Submit feature requests** via GitHub Issues
-- 💬 **Join discussions** in GitHub Discussions
-- 📧 **Contact us directly** at vrci_admin@proton.me
+- **Submit feature requests** via GitHub Issues
+- **Join discussions** in GitHub Discussions
+- **Contact us directly** at vrci_admin@proton.me
 
 Your input helps shape the future of VRCi!
 
-### 👨‍💻 Developer Recruitment
+### Developer Recruitment
 
 **Calling all passionate iOS developers!** We're actively looking for talented developers who are excited about:
-- 🔥 **SwiftUI/UIKit development**
-- 📱 **iOS platform expertise**  
-- 🎮 **VRChat community involvement**
-- 🚀 **Open source contribution**
+- **SwiftUI/UIKit development**
+- **iOS platform expertise**  
+- **VRChat community involvement**
+- **Open source contribution**
 
 Whether you're experienced or just starting out, if you're passionate about creating amazing iOS experiences for the VRChat community, we'd love to have you on the team!
 
@@ -158,12 +163,12 @@ Whether you're experienced or just starting out, if you're passionate about crea
 
 Help VRCi grow as the **premier iOS companion for VRChat**:
 
-- ⭐ **Star this repository** to show your support
-- 🐛 **Report bugs and suggest features** via GitHub Issues
-- 🤝 **Contribute to development** - developers welcome!
-- 💡 **Share your creative ideas** for new features
-- 📢 **Tell your VRChat friends** about VRCi
-- 📱 **Join our TestFlight beta** in early June 2025
+- **Star this repository** to show your support
+- **Report bugs and suggest features** via GitHub Issues
+- **Contribute to development** - developers welcome!
+- **Share your creative ideas** for new features
+- **Tell your VRChat friends** about VRCi
+- **Join our TestFlight beta** in early June 2025
 
 *VRCi will always remain free and accessible to the VRChat community.*
 
@@ -176,11 +181,11 @@ Help VRCi grow as the **premier iOS companion for VRChat**:
 - **Developer Applications**: vrci_admin@proton.me
 - **Legal Inquiries**: vrci_admin@proton.me
 
-### 🤝 Get Involved
-- 💡 **Share your ideas** for new features
-- 🐛 **Report bugs** to help us improve
-- 👨‍💻 **Join our development team**
-- 📢 **Spread the word** in the VRChat community
+### Get Involved
+- **Share your ideas** for new features
+- **Report bugs** to help us improve
+- **Join our development team**
+- **Spread the word** in the VRChat community
 
 ---
 
