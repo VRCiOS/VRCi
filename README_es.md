@@ -2,7 +2,7 @@
 
 # VRCi <img src="./icon/icon.png" width="64" height="64"> </img>
 
-[🇺🇸 English](README.md) • [🇯🇵 日本語](README_ja.md) • [🇪🇸 Español](README_es.md) • [🇨🇳 中文](README_cn.md) • [🇰🇷 한국어](README_kr.md)
+[🇺🇸 English](README.md) • [🇯🇵 日本語](README_ja.md) • **🇪🇸 Español** • [🇨🇳 中文](README_cn.md) • [🇰🇷 한국어](README_kr.md)
 
 **VRCi** es la herramienta de nueva generación para la gestión de amigos y comunidades, inspirada en [**VRCX**](https://github.com/vrcx-team/VRCX) para VRChat® en iOS, desarrollada con SwiftUI.
 
