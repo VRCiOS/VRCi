@@ -135,3 +135,5 @@ VRCiのご利用に関する完全な規約
 [利用規約](https://vrci-eula-deploy.vercel.app/terms) • [プライバシーポリシー](https://vrci-eula-deploy.vercel.app/privacy) • [VRChat利用規約](https://hello.vrchat.com/legal) • [VRChatコミュニティガイドライン](https://hello.vrchat.com/community-guidelines)
 
 </div>
+
+VRCX is not endorsed by VRChat and does not reflect the views or opinions of VRChat or anyone officially involved in producing or managing VRChat properties. VRChat and all associated properties are trademarks or registered trademarks of VRChat Inc. VRChat © VRChat Inc.

@@ -147,3 +147,5 @@ Tanto si tienes experiencia como si estás empezando, si te apasiona crear exper
 [Términos de Servicio](https://vrci-eula-deploy.vercel.app/terms) • [Política de Privacidad](https://vrci-eula-deploy.vercel.app/privacy) • [Términos de VRChat](https://hello.vrchat.com/legal) • [Directrices de la Comunidad de VRChat](https://hello.vrchat.com/community-guidelines)
 
 </div>
+
+VRCX is not endorsed by VRChat and does not reflect the views or opinions of VRChat or anyone officially involved in producing or managing VRChat properties. VRChat and all associated properties are trademarks or registered trademarks of VRChat Inc. VRChat © VRChat Inc.

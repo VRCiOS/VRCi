@@ -147,3 +147,5 @@ VRCi 使用的完整条款
 [服务条款](https://vrci-eula-deploy.vercel.app/terms) • [隐私政策](https://vrci-eula-deploy.vercel.app/privacy) • [VRChat 条款](https://hello.vrchat.com/legal) • [VRChat 社区准则](https://hello.vrchat.com/community-guidelines)
 
 </div>
+
+VRCX is not endorsed by VRChat and does not reflect the views or opinions of VRChat or anyone officially involved in producing or managing VRChat properties. VRChat and all associated properties are trademarks or registered trademarks of VRChat Inc. VRChat © VRChat Inc.

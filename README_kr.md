@@ -135,3 +135,5 @@ VRCi 사용에 관한 완전한 약관
 [서비스 약관](https://vrci-eula-deploy.vercel.app/terms) • [개인정보처리방침](https://vrci-eula-deploy.vercel.app/privacy) • [VRChat 약관](https://hello.vrchat.com/legal) • [VRChat 커뮤니티 가이드라인](https://hello.vrchat.com/community-guidelines)
 
 </div>
+
+VRCX is not endorsed by VRChat and does not reflect the views or opinions of VRChat or anyone officially involved in producing or managing VRChat properties. VRChat and all associated properties are trademarks or registered trademarks of VRChat Inc. VRChat © VRChat Inc.
