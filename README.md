@@ -13,24 +13,24 @@ This **unofficial third-party application** enhances your VRChat experience whil
 ## Key Features
 
 ### **Native iOS Experience**
-- **No Web Browser Required**: Access all VRChat features directly through the native iOS app—no need to visit VRChat's website
-- **Instant Friend Location Tracking**: See where your friends are in real-time without switching between apps
+- **No Web Browser Required**: Direct access to all VRChat features through native iOS app
+- **Instant Friend Location Tracking**: Real-time friend locations without app switching
 
 ### **Advanced Friend & Community Management**
-- **Real-Time Friend Status Updates**: Stay up-to-date with your friends' online statuses through live WebSocket updates
-- **Comprehensive User Search**: Find any VRChat user with powerful search and filtering capabilities
-- **Favorites & Group Management**: Easily mark your favorite friends, worlds, and avatars and organize them into customizable groups
-- **Friendship Activity Tracking**: Keep detailed logs of friendship changes including friend requests, additions, and removals
+- **Real-Time Friend Status Updates**: Live WebSocket updates for friend statuses
+- **Comprehensive User Search**: Powerful search and filtering for any VRChat user
+- **Favorites & Group Management**: Organize friends, worlds, and avatars into custom groups
+- **Friendship Activity Tracking**: Detailed logs of friend requests, additions, and removals
 
 ### **World & Content Discovery**
-- **Advanced World Search**: Discover new worlds with detailed filtering, sorting, and recommendation features
-- **Content Browsing**: Explore avatars, worlds, and groups without leaving the app
-- **Favorite Management**: Save and organize content you want to experience later
+- **Advanced World Search**: Discover worlds with detailed filtering and sorting
+- **Content Browsing**: Explore avatars, worlds, and groups within the app
+- **Favorite Management**: Save and organize content for later
 
 ### **Seamless Connectivity**
-- **Enhanced QR Code Sharing**: Share your VRChat profile with beautiful, customized QR codes featuring your avatar and information
-- **QR Code Scanner**: Instantly add friends by scanning their VRCi QR codes—no typing required
-- **Multi-Account Support**: Store and switch between up to 3 VRChat accounts with secure credential management
+- **Enhanced QR Code Sharing**: Beautiful, customized QR codes with avatar and profile info
+- **QR Code Scanner**: Instant friend adding by scanning VRCi QR codes
+- **Multi-Account Support**: Secure storage and switching between up to 3 accounts
 
 *And many more features coming soon!*
 
@@ -43,51 +43,42 @@ Explore VRCi's comprehensive feature set:
     <td align="center">
       <strong>Main Dashboard</strong><br>
       <img src="./img/main.png" alt="Main Dashboard" width="280" />
-      <br><sub>Friend status overview & quick access</sub>
     </td>
     <td align="center">
       <strong>Side Menu</strong><br>
       <img src="./img/sidemenu.png" alt="Side Menu" width="280" />
-      <br><sub>Easy navigation & feature access</sub>
     </td>
     <td align="center">
       <strong>My Profile</strong><br>
       <img src="./img/myprofile.png" alt="My Profile" width="280" />
-      <br><sub>Personal profile management</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Edit Profile</strong><br>
       <img src="./img/edit_profile.png" alt="Edit Profile" width="280" />
-      <br><sub>Comprehensive profile editing</sub>
     </td>
     <td align="center">
       <strong>Friendship Log</strong><br>
       <img src="./img/friendship_log.png" alt="Friendship Log" width="280" />
-      <br><sub>Track all friendship activities</sub>
     </td>
     <td align="center">
       <strong>QR Code Sharing</strong><br>
       <img src="./img/qr.png" alt="QR Code" width="280" />
-      <br><sub>Beautiful QR cards for easy sharing</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>World Search</strong><br>
       <img src="./img/search_world.png" alt="World Search" width="280" />
-      <br><sub>Discover worlds with advanced search</sub>
     </td>
     <td align="center">
       <strong>Group Management</strong><br>
       <img src="./img/group.png" alt="Groups" width="280" />
-      <br><sub>Community and group organization</sub>
     </td>
     <td align="center">
       <strong>Settings & Preferences</strong><br>
       <img src="./img/setting.png" alt="Settings" width="280" />
-      <br><sub>Customizable app preferences</sub>
     </td>
   </tr>
 </table>
