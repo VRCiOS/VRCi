@@ -1,0 +1,63 @@
+name: Feature Request
+description: Template for proposing new features or improvements to the VRCi.
+labels: ["enhancement", "proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🔧 Feature requests help improve the VRCi!
+
+        * ❔ For questions, help, or bug reports, please use the [Discussions](https://github.com/VRCiOS/VRCi/discussions) tab.
+        * Before submitting a feature request, please search [existing issues](https://github.com/VRCiOS/VRCi/issues) to avoid duplicates.
+        * Provide as much detail as possible so we can assess and prioritize your suggestion.
+
+  - type: input
+    attributes:
+      label: Feature Title
+      description: A short, descriptive title for the feature you’re proposing.
+      placeholder: "I need a way to manage my friends list more effectively"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: Describe the feature in detail. What should it do?
+      placeholder: "This feature should allow users to categorize and prioritize their friends list."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Use Case / Motivation
+      description: Why is this feature important? Who would use it and in what scenarios?
+      placeholder: "Users with large friends lists need better organization to find and interact with friends more easily."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Proposed Implementation
+      description: If you have ideas, outline how this could be built or integrated.
+      placeholder: |
+        - Introduce a tagging system for friends
+        - Allow users to create custom friend groups
+        - Implement a search/filter feature for the friends list
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Alternatives Considered
+      description: Other approaches you considered, if any.
+      placeholder: "Using existing social media APIs for friend management."
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: Any other context or screenshots about the feature request.
+      placeholder: "Mockups, related research links, or example repos..."
+    validations:
+      required: false

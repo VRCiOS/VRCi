@@ -1,0 +1,24 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions or Help
+    url: https://github.com/VRCiOS/VRCi/discussions/categories/questions
+    about: If you have questions or need help with VRCi, check existing discussions or post a new one here.
+  - name: Discussions
+    url: https://github.com/VRCiOS/VRCi/discussions
+    about: Join community discussions about VRCi to share experiences and tips.
+  - name: Suggestions / Ideas
+    url: https://github.com/VRCiOS/VRCi/discussions/categories/ideas
+    about: Review or submit suggestions and ideas for improving VRCi.
+
+issue_templates:
+  - name: Bug Report
+    description: Report a bug to help improve VRCi.
+    template: bugreport.yml
+    title: "[BUG] "
+    labels: ["bug", "triage"]
+
+  - name: Feature Request
+    description: Propose new features or improvements for VRCi.
+    template: feature_request.yml
+    title: "[FEATURE] "
+    labels: ["enhancement", "proposal"]

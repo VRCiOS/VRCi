@@ -1,0 +1,64 @@
+name: Bug Report
+description: Create a report to help us improve the VRCi.
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Bug reports help improve the VRCi!
+
+        * For questions, help, ideas, or feature requests, please use the [Discussions](https://github.com/VRCiOS/VRCi/discussions) tab.
+
+        * Before submitting a bug report, please search [existing issues](https://github.com/VRCiOS/VRCi/issues) to avoid duplicates.
+
+        * Please provide detailed information to help us understand and resolve the issue efficiently.
+  - type: input
+    attributes:
+      label: VRCi Version
+      description: Which version of the application are you using?
+      placeholder: "v1.0.0"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: iOS Version
+      description: Which version of iOS are you using?
+      placeholder: "iOS 15.4"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: iPhone Model
+      description: Which iPhone model are you using?
+      placeholder: "iPhone 12 Pro Max"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Reproduction Steps
+      description: How can we reproduce this issue? Include exact steps.
+      placeholder: |
+        1. Open the app
+        2. Navigate to the Friends tab
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: "Friends list should load without errors.""
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Actual Behavior
+      description: What actually happened? Include any error messages or unexpected behavior.
+      placeholder: "Friends list fails to load, showing an error message."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here. **Ensure no personal information or VRChat usernames are included.**
+    validations:
+      required: false
