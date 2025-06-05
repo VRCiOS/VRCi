@@ -8,6 +8,10 @@
 
 This **unofficial third-party application** enhances your VRChat experience while respecting VRChat's ecosystem.
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1640995200)](https://apps.apple.com/us/app/vrci/id6746643250)
+
+**Compatible with iPhone and iPad** • **Requires iOS 18.0 or later**
+
 <div align="left">
 
 ## Key Features
@@ -32,7 +36,7 @@ This **unofficial third-party application** enhances your VRChat experience whil
 - **QR Code Scanner**: Instant friend adding by scanning VRCi QR codes
 - **Multi-Account Support**: Secure storage and switching between up to 3 accounts
 
-*And many more features coming soon!*
+*And many more features to discover!*
 
 ## Screenshots
 
@@ -83,6 +87,19 @@ Explore VRCi's comprehensive feature set:
   </tr>
 </table>
 
+## System Requirements
+
+- **Platform**: iPhone and iPad
+- **iOS Version**: iOS 18.0 or later
+- **Internet Connection**: Required for VRChat API access
+- **Storage**: Approximately 50MB of available space
+
+## Download & Installation
+
+VRCi is now available on the App Store! Simply download and install to get started with enhanced VRChat management on your iOS device.
+
+**[Download VRCi on the App Store](https://apps.apple.com/us/app/vrci/id6746643250)**
+
 ## Legal & Compliance
 
 VRCi is an **unofficial third-party application** developed independently and is not affiliated with or endorsed by VRChat Inc.
@@ -103,18 +120,19 @@ Detailed information about data collection, use, and protection
 
 *VRChat® is a registered trademark of VRChat Inc. All rights reserved.*
 
-## Current Development Status
+## Support & Feedback
 
-**Beta testing will begin in early June 2025** via Apple's TestFlight platform. We're excited to share VRCi with the VRChat community and gather valuable feedback!
+Now that VRCi is live on the App Store, we're eager to hear from our users! Your feedback helps us continue improving the app.
 
-### Feature Ideas Always Welcome
+### Ways to Connect
+- **App Store Reviews**: Leave feedback directly on the App Store
+- **GitHub Issues**: Report bugs or request features
+- **GitHub Discussions**: Join community conversations
+- **Direct Contact**: Reach us at vrci_admin@proton.me
 
-We're constantly looking for ways to improve VRCi! If you have ideas for new features or improvements, we'd love to hear from you:
-- **Submit feature requests** via GitHub Issues
-- **Join discussions** in GitHub Discussions
-- **Contact us directly** at vrci_admin@proton.me
+### Feature Requests Welcome
 
-Your input helps shape the future of VRCi!
+We're constantly looking for ways to improve VRCi! If you have ideas for new features or improvements, we'd love to hear from you through any of the channels above.
 
 ### Developer Recruitment
 
@@ -130,7 +148,7 @@ Whether you're experienced or just starting out, if you're passionate about crea
 
 <div align="center">
 
-**Thank you for your interest in VRCi!** We're committed to creating an exceptional VRChat companion experience on iOS that respects both the community and platform guidelines.
+**Thank you for downloading VRCi!** We're committed to creating an exceptional VRChat companion experience on iOS that respects both the community and platform guidelines.
 
 ### Legal Links
 [Terms of Service](https://vrci-eula-deploy.vercel.app/terms) • [Privacy Policy](https://vrci-eula-deploy.vercel.app/privacy) • [VRChat Terms](https://hello.vrchat.com/legal) • [VRChat Community Guidelines](https://hello.vrchat.com/community-guidelines)
