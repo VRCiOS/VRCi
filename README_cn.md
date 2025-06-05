@@ -8,6 +8,10 @@
 
 这款**非官方第三方应用程序**致力于在尊重 VRChat 生态系统的前提下，提升您的 VRChat 体验。
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1640995200)](https://apps.apple.com/us/app/vrci/id6746643250)
+
+**兼容 iPhone 和 iPad** • **需要 iOS 18.0 或更高版本**
+
 <div align="left">
 
 *此中文 Readme.md 由 Google Gemini 翻译。*
@@ -34,7 +38,7 @@
 - **二维码扫描器**：扫描 VRCi 二维码即可快速添加好友
 - **多账户支持**：安全存储并切换多达 3 个 VRChat 账户
 
-*更多精彩功能，敬请期待！*
+*发现更多精彩功能！*
 
 ## 屏幕截图
 
@@ -45,54 +49,58 @@
     <td align="center">
       <strong>主界面</strong><br>
       <img src="./img/main.png" alt="主界面" width="280" />
-      <br><sub>好友状态概览与快捷入口</sub>
     </td>
     <td align="center">
       <strong>侧边菜单</strong><br>
       <img src="./img/sidemenu.png" alt="侧边菜单" width="280" />
-      <br><sub>便捷导航与功能入口</sub>
     </td>
     <td align="center">
       <strong>我的个人资料</strong><br>
       <img src="./img/myprofile.png" alt="我的个人资料" width="280" />
-      <br><sub>个人资料管理</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>编辑个人资料</strong><br>
       <img src="./img/edit_profile.png" alt="编辑个人资料" width="280" />
-      <br><sub>全面编辑个人资料</sub>
     </td>
     <td align="center">
       <strong>好友活动日志</strong><br>
       <img src="./img/friendship_log.png" alt="好友活动日志" width="280" />
-      <br><sub>追踪所有好友活动</sub>
     </td>
     <td align="center">
       <strong>二维码分享</strong><br>
       <img src="./img/qr.png" alt="二维码" width="280" />
-      <br><sub>精美二维码卡片，轻松分享</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>世界搜索</strong><br>
       <img src="./img/search_world.png" alt="世界搜索" width="280" />
-      <br><sub>通过高级搜索发现世界</sub>
     </td>
     <td align="center">
       <strong>群组管理</strong><br>
       <img src="./img/group.png" alt="群组" width="280" />
-      <br><sub>社区与群组管理</sub>
     </td>
     <td align="center">
       <strong>设置与偏好</strong><br>
       <img src="./img/setting.png" alt="设置" width="280" />
-      <br><sub>自定义应用偏好</sub>
     </td>
   </tr>
 </table>
+
+## 系统要求
+
+- **平台**：iPhone 和 iPad
+- **iOS 版本**：iOS 18.0 或更高版本
+- **网络连接**：访问 VRChat API 需要网络连接
+- **存储空间**：约 50MB 可用空间
+
+## 下载与安装
+
+VRCi 现已在 App Store 上架！立即下载安装，在您的 iOS 设备上开始增强的 VRChat 管理体验。
+
+**[在 App Store 下载 VRCi](https://apps.apple.com/us/app/vrci/id6746643250)**
 
 ## 法律与合规
 
@@ -106,26 +114,27 @@ VRCi 是一款独立开发的**非官方第三方应用程序**，与 VRChat Inc
 
 ### 法律文件
 
-**[服务条款](https://vrci-eula-deploy.vercel.app/terms)**
+**[服务条款](https://vrci-eula-deploy.vercel.app/terms)**  
 VRCi 使用的完整条款
 
-**[隐私政策](https://vrci-eula-deploy.vercel.app/privacy)**
+**[隐私政策](https://vrci-eula-deploy.vercel.app/privacy)**  
 关于数据收集、使用和保护的详细信息
 
 *VRChat® 是 VRChat Inc. 的注册商标。保留所有权利。*
 
-## 当前开发状态
+## 支持与反馈
 
-**Beta 测试将于 2025 年 6 月初**通过 Apple 的 TestFlight 平台启动。我们非常期待与 VRChat 社区分享 VRCi，并收集宝贵的反馈！
+VRCi 现已在 App Store 正式上线！我们渴望听到用户的声音！您的反馈将帮助我们持续改进应用。
 
-### 欢迎随时提出功能建议
+### 联系方式
+- **App Store 评价**：直接在 App Store 留下反馈
+- **GitHub Issues**：报告错误或请求功能
+- **GitHub Discussions**：参与社区讨论
+- **直接联系**：发送邮件至 vrci_admin@proton.me
 
-我们一直在寻求改进 VRCi 的方法！如果您对新功能或改进有任何想法，我们非常乐意倾听：
-- 通过 **GitHub Issues** 提交功能请求
-- 参与 **GitHub Discussions** 的讨论
-- 直接通过 **vrci_admin@proton.me** 联系我们
+### 欢迎功能建议
 
-您的建议将帮助我们塑造 VRCi 的未来！
+我们一直在寻求改进 VRCi 的方法！如果您对新功能或改进有任何想法，欢迎通过上述任何渠道告诉我们。
 
 ### 开发者招募
 
@@ -141,7 +150,7 @@ VRCi 使用的完整条款
 
 <div align="center">
 
-**感谢您对 VRCi 的关注！** 我们致力于在 iOS 平台上打造卓越的 VRChat 伴侣体验，同时尊重社区和平台准则。
+**感谢您下载 VRCi！** 我们致力于在 iOS 平台上打造卓越的 VRChat 伴侣体验，同时尊重社区和平台准则。
 
 ### 法律链接
 [服务条款](https://vrci-eula-deploy.vercel.app/terms) • [隐私政策](https://vrci-eula-deploy.vercel.app/privacy) • [VRChat 条款](https://hello.vrchat.com/legal) • [VRChat 社区准则](https://hello.vrchat.com/community-guidelines)

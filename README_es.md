@@ -8,14 +8,18 @@
 
 Esta **aplicación no oficial de terceros** mejora tu experiencia en VRChat respetando al mismo tiempo el ecosistema de VRChat.
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1640995200)](https://apps.apple.com/us/app/vrci/id6746643250)
+
+**Compatible con iPhone e iPad** • **Requiere iOS 18.0 o posterior**
+
 <div align="left">
 
-*This readme.md for Espanol is translated by Google Gemini*
+*This readme.md for Español is translated by Google Gemini*
 
 ## Características Destacadas
 
 ### **Experiencia Nativa de iOS**
-- **Sin Necesidad de Navegador Web**: Accede a todas las funciones de VRChat directamente través de la app nativa de iOS
+- **Sin Necesidad de Navegador Web**: Accede a todas las funciones de VRChat directamente a través de la app nativa de iOS
 - **Seguimiento Instantáneo de Amigos**: Ve dónde están tus amigos en tiempo real sin cambiar entre aplicaciones
 
 ### **Gestión Avanzada de Amigos y Comunidades**
@@ -34,7 +38,7 @@ Esta **aplicación no oficial de terceros** mejora tu experiencia en VRChat resp
 - **Escáner de Códigos QR**: Añade amigos al instante escaneando códigos QR de VRCi
 - **Soporte Multicuenta**: Almacenamiento seguro y cambio entre hasta 3 cuentas de VRChat
 
-*¡Y muchas más funciones próximamente!*
+*¡Descubre muchas más funciones!*
 
 ## Capturas de Pantalla
 
@@ -45,54 +49,58 @@ Explora el completo conjunto de características de VRCi:
     <td align="center">
       <strong>Panel Principal</strong><br>
       <img src="./img/main.png" alt="Panel Principal" width="280" />
-      <br><sub>Resumen del estado de amigos y acceso rápido</sub>
     </td>
     <td align="center">
       <strong>Menú Lateral</strong><br>
       <img src="./img/sidemenu.png" alt="Menú Lateral" width="280" />
-      <br><sub>Navegación fácil y acceso a funciones</sub>
     </td>
     <td align="center">
       <strong>Mi Perfil</strong><br>
       <img src="./img/myprofile.png" alt="Mi Perfil" width="280" />
-      <br><sub>Gestión del perfil personal</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Editar Perfil</strong><br>
       <img src="./img/edit_profile.png" alt="Editar Perfil" width="280" />
-      <br><sub>Edición completa del perfil</sub>
     </td>
     <td align="center">
       <strong>Registro de Amistad</strong><br>
       <img src="./img/friendship_log.png" alt="Registro de Amistad" width="280" />
-      <br><sub>Seguimiento de todas las actividades de amistad</sub>
     </td>
     <td align="center">
       <strong>Compartir Código QR</strong><br>
       <img src="./img/qr.png" alt="Código QR" width="280" />
-      <br><sub>Hermosas tarjetas QR para compartir fácilmente</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Búsqueda de Mundos</strong><br>
       <img src="./img/search_world.png" alt="Búsqueda de Mundos" width="280" />
-      <br><sub>Descubre mundos con búsqueda avanzada</sub>
     </td>
     <td align="center">
       <strong>Gestión de Grupos</strong><br>
       <img src="./img/group.png" alt="Grupos" width="280" />
-      <br><sub>Organización de comunidades y grupos</sub>
     </td>
     <td align="center">
       <strong>Ajustes y Preferencias</strong><br>
       <img src="./img/setting.png" alt="Ajustes" width="280" />
-      <br><sub>Preferencias personalizables de la aplicación</sub>
     </td>
   </tr>
 </table>
+
+## Requisitos del Sistema
+
+- **Plataforma**: iPhone e iPad
+- **Versión de iOS**: iOS 18.0 o posterior
+- **Conexión a Internet**: Necesaria para acceder a la API de VRChat
+- **Almacenamiento**: Aproximadamente 50MB de espacio disponible
+
+## Descarga e Instalación
+
+¡VRCi ya está disponible en la App Store! Simplemente descarga e instala para comenzar con la gestión mejorada de VRChat en tu dispositivo iOS.
+
+**[Descargar VRCi en la App Store](https://apps.apple.com/us/app/vrci/id6746643250)**
 
 ## Legal y Cumplimiento
 
@@ -106,26 +114,27 @@ VRCi es una **aplicación no oficial de terceros** desarrollada de forma indepen
 
 ### Documentación Legal
 
-**[Términos de Servicio](https://vrci-eula-deploy.vercel.app/terms)**
+**[Términos de Servicio](https://vrci-eula-deploy.vercel.app/terms)**  
 Términos completos que rigen el uso de VRCi
 
-**[Política de Privacidad](https://vrci-eula-deploy.vercel.app/privacy)**
+**[Política de Privacidad](https://vrci-eula-deploy.vercel.app/privacy)**  
 Información detallada sobre la recopilación, uso y protección de datos
 
 *VRChat® es una marca registrada de VRChat Inc. Todos los derechos reservados.*
 
-## Estado Actual del Desarrollo
+## Soporte y Comentarios
 
-**Las pruebas beta comenzarán a principios de junio de 2025** a través de la plataforma TestFlight de Apple. ¡Estamos emocionados de compartir VRCi con la comunidad de VRChat y recopilar comentarios valiosos!
+¡Ahora que VRCi está disponible en la App Store, estamos ansiosos por escuchar a nuestros usuarios! Tus comentarios nos ayudan a seguir mejorando la aplicación.
 
-### Las Ideas para Funciones Siempre Son Bienvenidas
+### Formas de Conectar
+- **Reseñas de la App Store**: Deja comentarios directamente en la App Store
+- **GitHub Issues**: Reporta errores o solicita funciones
+- **GitHub Discussions**: Únete a las conversaciones de la comunidad
+- **Contacto Directo**: Escríbenos a vrci_admin@proton.me
 
-¡Estamos constantemente buscando formas de mejorar VRCi! Si tienes ideas para nuevas funciones o mejoras, nos encantaría escucharte:
-- **Envía solicitudes de funciones** a través de GitHub Issues
-- **Únete a las discusiones** en GitHub Discussions
-- **Contáctanos directamente** en vrci_admin@proton.me
+### Solicitudes de Funciones Bienvenidas
 
-¡Tu opinión ayuda a dar forma al futuro de VRCi!
+¡Estamos constantemente buscando formas de mejorar VRCi! Si tienes ideas para nuevas funciones o mejoras, nos encantaría escucharte a través de cualquiera de los canales anteriores.
 
 ### Reclutamiento de Desarrolladores
 
@@ -141,7 +150,7 @@ Tanto si tienes experiencia como si estás empezando, si te apasiona crear exper
 
 <div align="center">
 
-**¡Gracias por tu interés en VRCi!** Estamos comprometidos a crear una experiencia excepcional como compañero de VRChat en iOS que respete tanto a la comunidad como las directrices de la plataforma.
+**¡Gracias por descargar VRCi!** Estamos comprometidos a crear una experiencia excepcional como compañero de VRChat en iOS que respete tanto a la comunidad como las directrices de la plataforma.
 
 ### Enlaces Legales
 [Términos de Servicio](https://vrci-eula-deploy.vercel.app/terms) • [Política de Privacidad](https://vrci-eula-deploy.vercel.app/privacy) • [Términos de VRChat](https://hello.vrchat.com/legal) • [Directrices de la Comunidad de VRChat](https://hello.vrchat.com/community-guidelines)
