@@ -12,6 +12,8 @@ Esta **aplicación no oficial de terceros** mejora tu experiencia en VRChat resp
 
 **Compatible con iPhone e iPad** • **Requiere iOS 18.0 o posterior**
 
+[Change Log](CHANGELOG.md)
+
 <div align="left">
 
 *This readme.md for Español is translated by Google Gemini*

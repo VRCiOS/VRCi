@@ -12,6 +12,8 @@
 
 **iPhone 및 iPad 호환** • **iOS 18.0 이상 필요**
 
+[Change Log](CHANGELOG.md)
+
 <div align="left">
 
 ## 주요 기능

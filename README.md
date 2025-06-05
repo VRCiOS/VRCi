@@ -12,6 +12,8 @@ This **unofficial third-party application** enhances your VRChat experience whil
 
 **Compatible with iPhone and iPad** • **Requires iOS 18.0 or later**
 
+[Change Log](CHANGELOG.md)
+
 <div align="left">
 
 ## Key Features

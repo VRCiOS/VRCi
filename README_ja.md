@@ -12,6 +12,8 @@ VRChatの使い方やガイドラインを大切にしながら、もっと快�
 
 **iPhone・iPad対応** • **iOS 18.0以降が必要**
 
+[Change Log](CHANGELOG.md)
+
 <div align="left">
 
 ## 主な機能

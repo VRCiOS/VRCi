@@ -12,6 +12,8 @@
 
 **兼容 iPhone 和 iPad** • **需要 iOS 18.0 或更高版本**
 
+[Change Log](CHANGELOG.md)
+
 <div align="left">
 
 *此中文 Readme.md 由 Google Gemini 翻译。*
