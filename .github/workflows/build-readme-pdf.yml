@@ -9,21 +9,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: repository_checkout
+      - name: Repository Checkout
         uses: actions/checkout@v4
 
-      - name: Install Pandoc and Tex Live 
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex
+      - name: Node.js Setup
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
 
-      - name: Convert README.md to README.pdf
+      - name: Install markdown-pdf
+        run: npm install -g markdown-pdf
+
+      - name: Convert README.md to PDF
         run: |
           mkdir -p docs
-          pandoc README.md \
-            --pdf-engine=xelatex \
-            -V geometry:margin=1in \
-            -o docs/README.pdf
+          markdown-pdf README.md -o docs/README.pdf
 
       - name: Commit and Push PDF
         uses: stefanzweifel/git-auto-commit-action@v4
