@@ -12,18 +12,22 @@ jobs:
       - name: Repository Checkout
         uses: actions/checkout@v4
 
-      - name: Node.js Setup
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
+      - name: Install Required Packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc wkhtmltopdf
 
-      - name: Install markdown-pdf
-        run: npm install -g markdown-pdf
-
-      - name: Convert README.md to PDF
+      - name: Convert Markdown to HTML
         run: |
           mkdir -p docs
-          markdown-pdf README.md -o docs/README.pdf
+          pandoc README.md -o docs/README.html
+
+      - name: Convert HTML to PDF
+        run: |
+          wkhtmltopdf \
+            --enable-local-file-access \
+            docs/README.html \
+            docs/README.pdf
 
       - name: Commit and Push PDF
         uses: stefanzweifel/git-auto-commit-action@v4
