@@ -1,0 +1,32 @@
+name: Build README as PDF
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-readme-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: repository_checkout
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and Tex Live 
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex
+
+      - name: Convert README.md to README.pdf
+        run: |
+          mkdir -p docs
+          pandoc README.md \
+            --pdf-engine=xelatex \
+            -V geometry:margin=1in \
+            -o docs/README.pdf
+
+      - name: Commit and Push PDF
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Build README.pdf"
+          file_pattern: docs/README.pdf
