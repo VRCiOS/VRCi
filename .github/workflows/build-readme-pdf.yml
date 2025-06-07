@@ -35,7 +35,7 @@ jobs:
             -o docs/README.pdf
 
       - name: Upload PDF artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: README-pdf
           path: docs/README.pdf
