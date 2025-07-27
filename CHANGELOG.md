@@ -3,10 +3,14 @@
 - リリースしました。
 - Initial release.
 
+---
+
 ### v 0.0.2 (2025/06/05)
 
 - 翻訳を修正しました。
 - Fixed translation issues.
+
+---
 
 ### v 0.0.3 (2025/06/05)
 
@@ -17,6 +21,10 @@
 
     - Fixed an issue where the menu button was unresponsive.
     - Added automatic authentication feature on the 2FA screen.
+
+
+---
+
  
 ### v 0.1.0 (2025/07/25)
 
@@ -46,4 +54,17 @@
 * Added a Self-Invite feature for worlds.  
 * Fixed the bug preventing world link sharing.  
 * Updated the QR code sharing feature.  
-* Added a bookmark feature supporting up to 300 items, including private worlds.  
+* Added a bookmark feature supporting up to 300 items, including private worlds.
+
+---
+
+
+### v 0.1.1 (2025/07/26) HOTFIX
+
+* 特定の状況でフレンドリストが表示されないエラーを修正しました。
+* GroupInstanceに関するバグを修正しました。
+* GroupInstanceへのSelf-Inviteができなかったエラーを修正しました。
+
+* Fixed an error where the friend list would not display in certain situations.
+* Fixed a bug related to GroupInstance.
+* Fixed an error where self-inviting to a GroupInstance did not work.
