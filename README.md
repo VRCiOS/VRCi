@@ -1,6 +1,6 @@
 <div align="center">
 
-# VRCi <img src="./icon/icon.png" width="64" height="64"> </img> 
+# VRCi for VRChat
 
 **🇺🇸 English** • [🇯🇵 日本語](README_ja.md) • [🇪🇸 Español](README_es.md) • [🇨🇳 中文](README_cn.md) • [🇰🇷 한국어](README_kr.md)
 
