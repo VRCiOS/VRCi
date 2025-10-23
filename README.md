@@ -40,55 +40,6 @@ This **unofficial third-party application** enhances your VRChat experience whil
 
 *And many more features to discover!*
 
-## Screenshots
-
-Explore VRCi's comprehensive feature set:
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Main Dashboard</strong><br>
-      <img src="./img/main.png" alt="Main Dashboard" width="280" />
-    </td>
-    <td align="center">
-      <strong>Side Menu</strong><br>
-      <img src="./img/sidemenu.png" alt="Side Menu" width="280" />
-    </td>
-    <td align="center">
-      <strong>My Profile</strong><br>
-      <img src="./img/myprofile.png" alt="My Profile" width="280" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Edit Profile</strong><br>
-      <img src="./img/edit_profile.png" alt="Edit Profile" width="280" />
-    </td>
-    <td align="center">
-      <strong>Friendship Log</strong><br>
-      <img src="./img/friendship_log.png" alt="Friendship Log" width="280" />
-    </td>
-    <td align="center">
-      <strong>QR Code Sharing</strong><br>
-      <img src="./img/qr.png" alt="QR Code" width="280" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>World Search</strong><br>
-      <img src="./img/search_world.png" alt="World Search" width="280" />
-    </td>
-    <td align="center">
-      <strong>Group Management</strong><br>
-      <img src="./img/group.png" alt="Groups" width="280" />
-    </td>
-    <td align="center">
-      <strong>Settings & Preferences</strong><br>
-      <img src="./img/setting.png" alt="Settings" width="280" />
-    </td>
-  </tr>
-</table>
-
 ## System Requirements
 
 - **Platform**: iPhone and iPad
