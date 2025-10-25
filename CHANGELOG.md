@@ -68,3 +68,23 @@
 * Fixed an error where the friend list would not display in certain situations.
 * Fixed a bug related to GroupInstance.
 * Fixed an error where self-inviting to a GroupInstance did not work.
+
+---
+
+### v 0.2.0 (2025/10/25) 
+
+* グループの告知とギャラリーがみれるようになりました。
+* グループのUIを少し変更しました。
+* イベントカレンダーを追加しました。
+* カスタムイベントを設定できるようになりました。
+* イベントの通知を貰えるようになりました。
+* 細かいバグを修正しました。
+
+
+* You can now view group announcements and galleries.
+* The group UI has been slightly updated.
+* An event calendar has been added.
+* You can now set up custom events.
+* You can receive notifications for events.
+* Minor bugs have been fixed.
+
