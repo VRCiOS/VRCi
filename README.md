@@ -2,7 +2,7 @@
 
 # VRCi for VRChat
 
-**🇺🇸 English** • [🇯🇵 日本語](README_ja.md) • [🇪🇸 Español](README_es.md) • [🇨🇳 中文](README_cn.md) • [🇰🇷 한국어](README_kr.md)
+**🇺🇸 English** • [🇯🇵 日本語](README_ja.md) • [🇩🇪 Deutsch](README_de.md) • [🇪🇸 Español](README_es.md) • [🇨🇳 中文](README_cn.md) • [🇰🇷 한국어](README_kr.md)
 
 **VRCi** is a next-generation friend and community management tool, inspired by [**VRCX**](https://github.com/vrcx-team/VRCX) for VRChat® on iOS-built with SwiftUI. 
 
@@ -96,6 +96,12 @@ We're constantly looking for ways to improve VRCi! If you have ideas for new fea
 - **Open source contribution**
 
 Whether you're experienced or just starting out, if you're passionate about creating amazing iOS experiences for the VRChat community, we'd love to have you on the team!
+
+### Credits
+
+* **Main Developer**: [refiaa](https://github.com/refiaa)
+* **UI/UX Designer**: [Minemu](https://github.com/Minemu398)
+* **German Localization**: [Lupis](https://lupis.live)
 
 ---
 
